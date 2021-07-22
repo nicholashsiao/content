@@ -23,7 +23,7 @@ Send message/notification to LINE Group
 
 #### Base Command
 
-`LINE-send-message`
+`line-send-message`
 #### Input
 
 | **Argument Name** | **Description** | **Required** |
